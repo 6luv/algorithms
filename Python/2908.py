@@ -1,0 +1,6 @@
+n1, n2 = input().split()
+n1_list = list(n1)
+n2_list = list(n2)
+n1_list.reverse()
+n2_list.reverse()
+print(n1_list, n2_list)
