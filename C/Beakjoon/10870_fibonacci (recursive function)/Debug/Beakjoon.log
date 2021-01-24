@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(10870_fibonacci.vcxproj, Beakjoon.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
-  소스.c
-C:\Users\201820969\Desktop\coding\Algorithm\C\Beakjoon\Beakjoon\소스.c(4,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-소스.obj : error LNK2005: _main이(가) 10870_fibonacci 5.obj에 이미 정의되어 있습니다.
-C:\Users\201820969\Desktop\coding\Algorithm\C\Beakjoon\Debug\10870_fibonacci 5.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
