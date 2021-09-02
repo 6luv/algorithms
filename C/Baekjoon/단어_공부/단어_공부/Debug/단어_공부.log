@@ -1,0 +1,3 @@
+﻿  단어_공부.c
+C:\Users\장영아\Desktop\민주\코딩\단어_공부\단어_공부\단어_공부.c(12,14): warning C4013:  'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  단어_공부.vcxproj -> C:\Users\장영아\Desktop\민주\코딩\단어_공부\Debug\단어_공부.exe
