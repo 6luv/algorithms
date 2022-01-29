@@ -6,8 +6,9 @@ import (
 )
 
 func main() {
-	var a, b uint64
-	newBigInt := big.NewInt(int64(10000))
+	var a, b big.Int
 	fmt.Scanf("%d %d", &a, &b)
-	fmt.Println(a + b)
+	add := new(big.Int)
+	add = add.Add(&a, &b)
+	fmt.Println(add)
 }
