@@ -28,4 +28,5 @@ func main() {
 	for i := 0; i < n; i++ {
 		fmt.Fprintln(w, arr[i][0], arr[i][1])
 	}
+	
 }

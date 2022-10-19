@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+package _568
+=======
 package main
 
 import (
@@ -33,3 +36,4 @@ func main() {
 		fmt.Fprintf(w, "%d ", gr[i])
 	}
 }
+>>>>>>> e29607c422b13c403c4eadafce6eaaf822511122
