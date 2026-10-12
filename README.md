@@ -4,30 +4,11 @@
 
 <!-- 난이도 확인: 2026-10-07. BOJ: https://github.com/Hiyabye/solvedac/tree/main/data 의 solved.ac 수집 기록. 티어 기준: https://help.solved.ac/en/problem/level . 원본 아이콘: https://d2gd6pc034wcta.cloudfront.net/tier/{level}.svg (저작권 solved.ac). SWEA: 공식 Problem/User Problem 검색 목록. D 배지는 자체 제작이며 —는 난이도 미확인 또는 등급 없음. -->
 
-## 통계
-
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/statistics/boj-difficulty-dark.png">
-        <img src="assets/statistics/boj-difficulty.png" alt="백준 난이도별 원형 차트: 총 201문제" width="100%">
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/statistics/swea-difficulty-dark.png">
-        <img src="assets/statistics/swea-difficulty.png" alt="SWEA 난이도별 원형 차트: 총 59문제" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
-
-## Java (79문제)
+## Java (80문제)
 
 | 난이도 | 제목 | 푼 날짜 | 알고리즘 |
 | :---: | --- | --- | --- |
+| ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2117. 홈 방범 서비스](Java/swea/2117_%ED%99%88%20%EB%B0%A9%EB%B2%94%20%EC%84%9C%EB%B9%84%EC%8A%A4/Solution.java) | 2026-10-12 | 완전 탐색, 맨해튼 거리 |
 | ![D4](assets/difficulty/swea-d4.svg) | [SWEA 5251. 최소 이동 거리](Java/swea/5251_%EC%B5%9C%EC%86%8C%20%EC%9D%B4%EB%8F%99%20%EA%B1%B0%EB%A6%AC/Solution.java) | 2026-10-07 | 다익스트라 |
 | ![D5](assets/difficulty/swea-d5.svg) | [SWEA 1247. 최적 경로](Java/swea/1247_%EC%B5%9C%EC%A0%81%20%EA%B2%BD%EB%A1%9C/Solution.java) | 2026-10-07 | DFS, 백트래킹 |
 | ![D3](assets/difficulty/swea-d3.svg) | [SWEA 5250. 최소 비용](Java/swea/5250_%EC%B5%9C%EC%86%8C%20%EB%B9%84%EC%9A%A9/Solution.java) | 2026-10-07 | 다익스트라 |
@@ -80,7 +61,7 @@
 | ![샘플](assets/difficulty/swea-sample.svg) | [SWEA 1767. 프로세서 연결하기](Java/swea/1767_%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/Solution.java) | 2026-09-18 | DFS, 백트래킹 |
 | ![D3](assets/difficulty/swea-d3.svg) | [SWEA 1873. 상호의 배틀필드](Java/swea/1873_%EC%83%81%ED%98%B8%EC%9D%98%20%EB%B0%B0%ED%8B%80%ED%95%84%EB%93%9C/Solution.java) | 2026-09-18 | 시뮬레이션 |
 | ![D2](assets/difficulty/swea-d2.svg) | [SWEA 1926. 간단한 369게임](Java/swea/1926_%EA%B0%84%EB%8B%A8%ED%95%9C%20369%EA%B2%8C%EC%9E%84/Solution.java) | 2026-09-18 | 시뮬레이션 |
-| ![모의](assets/difficulty/swea-mock.svg) | [SWEA 1952. 수영장](Java/swea/1952_%EC%88%98%EC%98%81%EC%9E%A5/Solution.java) | 2026-09-18 | DFS, 백트래킹 |
+| ![모의](assets/difficulty/swea-mock.svg) | [SWEA 1952. 수영장](Java/swea/1952_%EC%88%98%EC%98%81%EC%9E%A5/Solution.java) · [DP](Java/swea/1952_%EC%88%98%EC%98%81%EC%9E%A5%28DP%29/Solution.java) | 2026-09-18 | DFS, 백트래킹, DP |
 | ![D2](assets/difficulty/swea-d2.svg) | [SWEA 1959. 두 개의 숫자열](Java/swea/1959_%EB%91%90%20%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90%EC%97%B4/Solution.java) | 2026-09-18 | 완전 탐색 |
 | ![D2](assets/difficulty/swea-d2.svg) | [SWEA 1979. 어디에 단어가 들어갈 수 있을까](Java/swea/1979_%EC%96%B4%EB%94%94%EC%97%90%20%EB%8B%A8%EC%96%B4%EA%B0%80%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EC%88%98%20%EC%9E%88%EC%9D%84%EA%B9%8C/Solution.java) | 2026-09-18 | 구현, 2차원 배열 |
 | ![D2](assets/difficulty/swea-d2.svg) | [SWEA 2001. 파리퇴치](Java/swea/2001_%ED%8C%8C%EB%A6%AC%ED%87%B4%EC%B9%98/Solution.java) | 2026-09-18 | 구현, 2차원 배열 |
@@ -339,7 +320,7 @@
 
 ## 미완성·미해결 문제 (14문제)
 
-통계와 언어별 문제 수에서 제외합니다.
+언어별 문제 수에서 제외합니다.
 
 | 난이도 | 제목 | 언어 | 기록 날짜 | 상태 |
 | :---: | --- | --- | --- | --- |
