@@ -4,10 +4,12 @@
 
 <!-- 난이도 확인: 2026-10-07. BOJ: https://github.com/Hiyabye/solvedac/tree/main/data 의 solved.ac 수집 기록. 티어 기준: https://help.solved.ac/en/problem/level . 원본 아이콘: https://d2gd6pc034wcta.cloudfront.net/tier/{level}.svg (저작권 solved.ac). SWEA: 공식 Problem/User Problem 검색 목록. D 배지는 자체 제작이며 —는 난이도 미확인 또는 등급 없음. -->
 
-## Java (80문제)
+## Java (82문제)
 
 | 난이도 | 제목 | 푼 날짜 | 알고리즘 |
 | :---: | --- | --- | --- |
+| ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2383. 점심 식사시간](Java/swea/2383_%EC%A0%90%EC%8B%AC%20%EC%8B%9D%EC%82%AC%EC%8B%9C%EA%B0%84/Solution.java) | 2026-10-13 | DFS, 완전 탐색, 시뮬레이션 |
+| ![D3](assets/difficulty/swea-d3.svg) | [SWEA 3282. 0/1 Knapsack](Java/swea/3282_0-1%20Knapsack/Solution.java) | 2026-10-13 | DP, 0/1 배낭 문제 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2117. 홈 방범 서비스](Java/swea/2117_%ED%99%88%20%EB%B0%A9%EB%B2%94%20%EC%84%9C%EB%B9%84%EC%8A%A4/Solution.java) | 2026-10-12 | 완전 탐색, 맨해튼 거리 |
 | ![D4](assets/difficulty/swea-d4.svg) | [SWEA 5251. 최소 이동 거리](Java/swea/5251_%EC%B5%9C%EC%86%8C%20%EC%9D%B4%EB%8F%99%20%EA%B1%B0%EB%A6%AC/Solution.java) | 2026-10-07 | 다익스트라 |
 | ![D5](assets/difficulty/swea-d5.svg) | [SWEA 1247. 최적 경로](Java/swea/1247_%EC%B5%9C%EC%A0%81%20%EA%B2%BD%EB%A1%9C/Solution.java) | 2026-10-07 | DFS, 백트래킹 |
