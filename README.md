@@ -35,7 +35,7 @@
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 4008. 숫자 만들기](Java/swea/4008_%EC%88%AB%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0/Solution.java) | 2026-09-18 | DFS, 백트래킹 |
 | ![D2](assets/difficulty/swea-d2.svg) | [SWEA 25985. 숫자열의 최대 곱](Java/swea/25985_%EC%88%AB%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%B5%9C%EB%8C%80%20%EA%B3%B1/Solution.java) | 2026-09-18 | 완전 탐색 |
 | ![D2](assets/difficulty/swea-d2.svg) | [SWEA 25052. 등산로](Java/swea/25052_%EB%93%B1%EC%82%B0%EB%A1%9C/Solution.java) | 2026-09-18 | 완전 탐색, 그리디, 시뮬레이션 |
-| — | [SWEA 24615. 던전탈출](Java/swea/24615_%EB%8D%98%EC%A0%84%ED%83%88%EC%B6%9C) | 2026-09-18 | BFS, 다익스트라 |
+| B형 기출 | [SWEA 24615. 던전탈출](Java/swea/24615_%EB%8D%98%EC%A0%84%ED%83%88%EC%B6%9C) | 2026-09-18 | BFS, 다익스트라 |
 | ![D4](assets/difficulty/swea-d4.svg) | [SWEA 4796. 의석이의 우뚝 선 산](Java/swea/4796_%EC%9D%98%EC%84%9D%EC%9D%B4%EC%9D%98%20%EC%9A%B0%EB%9A%9D%20%EC%84%A0%20%EC%82%B0/Solution.java) | 2026-09-18 | 구현, 순회 |
 | ![D1](assets/difficulty/swea-d1.svg) | [SWEA 23795. 우주 괴물](Java/swea/23795_%EC%9A%B0%EC%A3%BC%20%EA%B4%B4%EB%AC%BC/Solution.java) | 2026-09-18 | 구현, 2차원 배열 |
 | ![D1](assets/difficulty/swea-d1.svg) | [SWEA 22375. 스위치 조작](Java/swea/22375_%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%A1%B0%EC%9E%91/Solution.java) | 2026-09-18 | 그리디, 시뮬레이션 |
