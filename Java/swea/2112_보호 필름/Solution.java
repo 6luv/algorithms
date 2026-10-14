@@ -58,7 +58,7 @@ class Solution {
 
         for (int i = start; i <= d - (target - cnt); i++) {
             selected[cnt] = i;
-            choose(start + 1, cnt + 1, target);
+            choose(i + 1, cnt + 1, target);
 
             if (found)
                 return;
