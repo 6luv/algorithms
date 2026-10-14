@@ -4,10 +4,13 @@
 
 <!-- 난이도 확인: 2026-10-07. BOJ: https://github.com/Hiyabye/solvedac/tree/main/data 의 solved.ac 수집 기록. 티어 기준: https://help.solved.ac/en/problem/level . 원본 아이콘: https://d2gd6pc034wcta.cloudfront.net/tier/{level}.svg (저작권 solved.ac). SWEA: 공식 Problem/User Problem 검색 목록. D 배지는 자체 제작이며 —는 난이도 미확인 또는 등급 없음. -->
 
-## Java (82문제)
+## Java (85문제)
 
 | 난이도 | 제목 | 푼 날짜 | 알고리즘 |
 | :---: | --- | --- | --- |
+| ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2112. 보호 필름](Java/swea/2112_%EB%B3%B4%ED%98%B8%20%ED%95%84%EB%A6%84/Solution.java) | 2026-10-14 | 조합, DFS, 백트래킹 |
+| ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2477. 차량 정비소](Java/swea/2477_%EC%B0%A8%EB%9F%89%20%EC%A0%95%EB%B9%84%EC%86%8C/Solution.java) | 2026-10-14 | 시뮬레이션, 우선순위 큐 |
+| ![모의](assets/difficulty/swea-mock.svg) | [SWEA 5656. 벽돌 깨기](Java/swea/5656_%EB%B2%BD%EB%8F%8C%20%EA%B9%A8%EA%B8%B0/Solution.java) · [최적화 풀이](Java/swea/5656_%EB%B2%BD%EB%8F%8C%20%EA%B9%A8%EA%B8%B0/Solution2.java) | 2026-10-14 | DFS, BFS, 시뮬레이션 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2383. 점심 식사시간](Java/swea/2383_%EC%A0%90%EC%8B%AC%20%EC%8B%9D%EC%82%AC%EC%8B%9C%EA%B0%84/Solution.java) | 2026-10-13 | DFS, 완전 탐색, 시뮬레이션 |
 | ![D3](assets/difficulty/swea-d3.svg) | [SWEA 3282. 0/1 Knapsack](Java/swea/3282_0-1%20Knapsack/Solution.java) | 2026-10-13 | DP, 0/1 배낭 문제 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2117. 홈 방범 서비스](Java/swea/2117_%ED%99%88%20%EB%B0%A9%EB%B2%94%20%EC%84%9C%EB%B9%84%EC%8A%A4/Solution.java) | 2026-10-12 | 완전 탐색, 맨해튼 거리 |
