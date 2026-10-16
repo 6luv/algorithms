@@ -4,10 +4,11 @@
 
 <!-- 난이도 확인: 2026-10-07. BOJ: https://github.com/Hiyabye/solvedac/tree/main/data 의 solved.ac 수집 기록. 티어 기준: https://help.solved.ac/en/problem/level . 원본 아이콘: https://d2gd6pc034wcta.cloudfront.net/tier/{level}.svg (저작권 solved.ac). SWEA: 공식 Problem/User Problem 검색 목록. D 배지는 자체 제작이며 —는 난이도 미확인 또는 등급 없음. -->
 
-## Java (85문제)
+## Java (86문제)
 
 | 난이도 | 제목 | 푼 날짜 | 알고리즘 |
 | :---: | --- | --- | --- |
+| ![D6](assets/difficulty/swea-d6.svg) | [SWEA 1263. 사람 네트워크2](Java/swea/1263_%EC%82%AC%EB%9E%8C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC2/Solution.java) | 2026-10-16 | BFS, 최단 경로 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2112. 보호 필름](Java/swea/2112_%EB%B3%B4%ED%98%B8%20%ED%95%84%EB%A6%84/Solution.java) | 2026-10-14 | 조합, DFS, 백트래킹 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2477. 차량 정비소](Java/swea/2477_%EC%B0%A8%EB%9F%89%20%EC%A0%95%EB%B9%84%EC%86%8C/Solution.java) | 2026-10-14 | 시뮬레이션, 우선순위 큐 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 5656. 벽돌 깨기](Java/swea/5656_%EB%B2%BD%EB%8F%8C%20%EA%B9%A8%EA%B8%B0/Solution.java) · [최적화 풀이](Java/swea/5656_%EB%B2%BD%EB%8F%8C%20%EA%B9%A8%EA%B8%B0/Solution2.java) | 2026-10-14 | DFS, BFS, 시뮬레이션 |
