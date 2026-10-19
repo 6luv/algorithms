@@ -4,10 +4,13 @@
 
 <!-- 난이도 확인: 2026-10-07. BOJ: https://github.com/Hiyabye/solvedac/tree/main/data 의 solved.ac 수집 기록. 티어 기준: https://help.solved.ac/en/problem/level . 원본 아이콘: https://d2gd6pc034wcta.cloudfront.net/tier/{level}.svg (저작권 solved.ac). SWEA: 공식 Problem/User Problem 검색 목록. D 배지는 자체 제작이며 —는 난이도 미확인 또는 등급 없음. -->
 
-## Java (86문제)
+## Java (89문제)
 
 | 난이도 | 제목 | 푼 날짜 | 알고리즘 |
 | :---: | --- | --- | --- |
+| ![D4](assets/difficulty/swea-d4.svg) | [SWEA 1494. 사랑의 카운슬러](Java/swea/1494_%EC%82%AC%EB%9E%91%EC%9D%98%20%EC%B9%B4%EC%9A%B4%EC%8A%AC%EB%9F%AC/Solution.java) | 2026-10-19 | 조합, 백트래킹, 벡터 |
+| ![D4](assets/difficulty/swea-d4.svg) | [SWEA 4038. 단어가 등장하는 횟수](Java/swea/4038_%EB%8B%A8%EC%96%B4%EA%B0%80%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%ED%9A%9F%EC%88%98/Solution.java) | 2026-10-19 | 문자열, KMP |
+| ![D4](assets/difficulty/swea-d4.svg) | [SWEA 5643. 키 순서](Java/swea/5643_%ED%82%A4%20%EC%88%9C%EC%84%9C/Solution.java) | 2026-10-19 | 플로이드–워셜, 그래프 탐색 |
 | ![D6](assets/difficulty/swea-d6.svg) | [SWEA 1263. 사람 네트워크2](Java/swea/1263_%EC%82%AC%EB%9E%8C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC2/Solution.java) | 2026-10-16 | BFS, 최단 경로 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2112. 보호 필름](Java/swea/2112_%EB%B3%B4%ED%98%B8%20%ED%95%84%EB%A6%84/Solution.java) | 2026-10-14 | 조합, DFS, 백트래킹 |
 | ![모의](assets/difficulty/swea-mock.svg) | [SWEA 2477. 차량 정비소](Java/swea/2477_%EC%B0%A8%EB%9F%89%20%EC%A0%95%EB%B9%84%EC%86%8C/Solution.java) | 2026-10-14 | 시뮬레이션, 우선순위 큐 |
